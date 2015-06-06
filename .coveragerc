@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = nucleo
+omit = nucleo/openstack/*
+
+[report]
+ignore-errors = True
